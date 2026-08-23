@@ -1,34 +1,49 @@
 # Srinidhi Kotteswaran
 
-Student building at the intersection of **AI, computational mathematics, and software engineering**.
+**AI · Computational Mathematics · Software Engineering**
 
-I like turning abstract ideas into things people can actually interact with.
+I build interactive software around ideas I find interesting, especially where mathematics and computing overlap.
 
-## Featured Projects
+---
 
-### 🧮 Motion Explorer
-Interactive computational calculus laboratory exploring derivatives, motion, numerical methods, analysis, and integration.
+## Selected work
 
-Built with React and TypeScript, including a custom symbolic math engine, AST-based parsing, numerical methods, testing, and benchmarking.
+<a href="https://github.com/SrinidhiKotteswaran/calculus-motion-explorer">
+  <img src="https://raw.githubusercontent.com/SrinidhiKotteswaran/calculus-motion-explorer/main/screenshots/explore.png" alt="Motion Explorer" width="700">
+</a>
 
-[Live Demo](https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/) · [Repository](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)
+### Motion Explorer
 
-### 🐍 Calculus Motion Visualizer
-The original Python prototype that became Motion Explorer.
+An interactive calculus laboratory for exploring derivatives, motion, numerical methods, analysis, and integration.
 
-Built with Python, Streamlit, SymPy, NumPy, and Plotly to explore the relationship between position, velocity, and derivatives.
+React + TypeScript · custom symbolic math engine · AST parsing · numerical methods · testing · benchmarking
 
-[Repository](https://github.com/SrinidhiKotteswaran/calculus-motion-visualizer)
+[Live demo](https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/) · [Source](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)
 
-### 🍽️ Vegetarian Restaurant Website
-Responsive multi-page website built from scratch with a focus on layout, navigation, and mobile usability.
+---
 
-[Repository](https://github.com/SrinidhiKotteswaran/Vegetarian-restaurant-website)
+### Calculus Motion Visualizer
 
-## Currently Building
+The Python prototype that led to Motion Explorer. Built to explore the relationship between position, velocity, and derivatives.
 
-**AI / CS project** — exploring a problem through software and machine learning.
+Python · Streamlit · SymPy · NumPy · Plotly
+
+[Source](https://github.com/SrinidhiKotteswaran/calculus-motion-visualizer)
+
+---
+
+### Vegetarian Restaurant Website
+
+A responsive multi-page website built from scratch, with an emphasis on layout, navigation, and mobile usability.
+
+[Source](https://github.com/SrinidhiKotteswaran/Vegetarian-restaurant-website)
+
+---
+
+## Currently building
+
+An AI / CS project focused on using software and machine learning to solve a problem I care about.
 
 ## Interests
 
-AI & machine learning · computational mathematics · interactive software · data-driven tools · educational technology
+AI and machine learning · computational mathematics · interactive software · data-driven tools
