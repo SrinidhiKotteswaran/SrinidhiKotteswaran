@@ -46,3 +46,5 @@ An AI / CS project exploring a problem through software and machine learning.
 ## Interests
 
 AI and machine learning · computational mathematics · interactive software · data-driven tools
+
+<!-- portfolio update -->
