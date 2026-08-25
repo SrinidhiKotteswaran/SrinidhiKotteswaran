@@ -48,3 +48,4 @@ An AI / CS project exploring a problem through software and machine learning.
 AI and machine learning · computational mathematics · interactive software · data-driven tools
 
 <!-- portfolio update -->
+<!-- README refinement -->
