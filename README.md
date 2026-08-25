@@ -51,3 +51,4 @@ AI and machine learning · computational mathematics · interactive software · 
 <!-- README refinement -->
 <!-- project notes -->
 <!-- ongoing work -->
+<!-- portfolio maintenance -->
