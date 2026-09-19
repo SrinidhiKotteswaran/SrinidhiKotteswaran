@@ -6,10 +6,6 @@ I like taking problems that feel messy on paper and turning them into software p
 
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 📚 [ClassPilot](https://github.com/SrinidhiKotteswaran/ClassPilot)
 
 An academic command center I built to help students answer a simple question: **what should I work on next?**
@@ -21,14 +17,18 @@ An academic command center I built to help students answer a simple question: **
 - Supabase / Postgres
 - Live Vercel deployment
 
-**[Live app →](https://class-pilot-sigma.vercel.app/)**
+**[Live app →](https://class-pilot-sigma.vercel.app/)** · **[Source →](https://github.com/SrinidhiKotteswaran/ClassPilot)**
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 📐 [Motion Explorer](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)
 
 An interactive calculus laboratory for exploring derivatives, numerical methods, analysis, and integration.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SrinidhiKotteswaran/calculus-motion-explorer/main/screenshots/explore.png" alt="Motion Explorer interactive calculus laboratory" width="48%">
+  <img src="https://raw.githubusercontent.com/SrinidhiKotteswaran/calculus-motion-explorer/main/screenshots/analyze.png" alt="Motion Explorer analysis interface" width="48%">
+</p>
 
 - Custom symbolic math engine
 - Tokenizer → AST parser → symbolic differentiation
@@ -37,11 +37,7 @@ An interactive calculus laboratory for exploring derivatives, numerical methods,
 - Testing + benchmarking
 - React / TypeScript / Vite
 
-**[Live demo →](https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/)**
-
-</td>
-</tr>
-</table>
+**[Live demo →](https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/)** · **[Source →](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)**
 
 ## How I build
 
