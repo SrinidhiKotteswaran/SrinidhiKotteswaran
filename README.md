@@ -37,7 +37,7 @@ An interactive calculus laboratory for exploring derivatives, numerical methods,
 - Testing + benchmarking
 - React / TypeScript / Vite
 
-**[Live demo →](https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/)** · **[Source →](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)**
+**[Live demo →]([https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/](https://calculus-motion-explorer.vercel.app/))** · **[Source →](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)**
 
 ## How I build
 
