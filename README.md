@@ -1,59 +1,72 @@
 # Srinidhi Kotteswaran
 
-**Computer Science · AI · Computational Mathematics**
+**Computer science · AI · computational mathematics**
 
-I like taking problems that feel messy on paper and turning them into software people can actually use.
+I like taking ideas that feel abstract or messy and turning them into software people can explore, test, and use.
 
 ## Featured projects
 
-### 📚 [ClassPilot](https://github.com/SrinidhiKotteswaran/ClassPilot)
-
-An academic command center I built to help students answer a simple question: **what should I work on next?**
-
-- Assignment, grade, and commitment tracking
-- Planning and study-plan generation
-- Authentication + persistent data
-- React / TypeScript / Vite
-- Supabase / Postgres
-- Live Vercel deployment
-
-**[Live app →](https://class-pilot-sigma.vercel.app/)** · **[Source →](https://github.com/SrinidhiKotteswaran/ClassPilot)**
-
----
-
 ### 📐 [Motion Explorer](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)
 
-An interactive calculus laboratory for exploring derivatives, numerical methods, analysis, and integration.
+An interactive calculus laboratory for exploring derivatives, motion, numerical methods, analysis, and integration.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SrinidhiKotteswaran/calculus-motion-explorer/main/screenshots/explore.png" alt="Motion Explorer interactive calculus laboratory" width="48%">
-  <img src="https://raw.githubusercontent.com/SrinidhiKotteswaran/calculus-motion-explorer/main/screenshots/analyze.png" alt="Motion Explorer analysis interface" width="48%">
+  <a href="https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/">
+    <img src="https://raw.githubusercontent.com/SrinidhiKotteswaran/calculus-motion-explorer/main/screenshots/explore.png" alt="Motion Explorer interactive calculus lab" width="48%">
+  </a>
+  <a href="https://github.com/SrinidhiKotteswaran/calculus-motion-explorer">
+    <img src="https://raw.githubusercontent.com/SrinidhiKotteswaran/calculus-motion-explorer/main/screenshots/numerics.png" alt="Motion Explorer numerical methods lab" width="48%">
+  </a>
 </p>
 
-- Custom symbolic math engine
-- Tokenizer → AST parser → symbolic differentiation
-- Numerical differentiation + error analysis
-- Interactive graphing
-- Testing + benchmarking
-- React / TypeScript / Vite
+- Custom tokenizer, recursive-descent parser, AST evaluator, symbolic differentiation, and simplification
+- Interactive visualizations across six calculus topics
+- Numerical differentiation and floating-point error analysis
+- React · TypeScript · Vite
 
-**[Live demo →]([https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/](https://calculus-motion-explorer.vercel.app/))** · **[Source →](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)**
+**[Live demo](https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/)** · **[Repository](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)**
+
+### 📚 [ClassPilot](https://github.com/SrinidhiKotteswaran/ClassPilot)
+
+An academic planning tool designed to help students decide what to work on next.
+
+- Assignment, class, grade, and commitment tracking
+- Study planning around priority and available time
+- React · TypeScript · Vite · Tailwind CSS
+- Public demo currently uses sample data and browser-local persistence
+
+**[Live demo](https://class-pilot-sigma.vercel.app/)** · **[Repository](https://github.com/SrinidhiKotteswaran/ClassPilot)**
+
+### 🌦️ [AlertLens](https://github.com/SrinidhiKotteswaran/AlertLens)
+
+A map-centered interface for exploring National Weather Service alerts and their geographic context.
+
+- Weather alerts and nearby observations
+- Geographic alert visualization and location search
+- Clearly labeled simulation scenarios and supplementary community reports
+- React · TypeScript · Leaflet · Vite
+
+**[Repository](https://github.com/SrinidhiKotteswaran/AlertLens)**
 
 ## How I build
 
-I usually start with a question, make a rough version, and then keep rebuilding until the underlying idea works—not just the interface.
+I like starting with a question, building a working version, finding the limitations, and improving the underlying idea—not only the interface.
 
 **Prototype → test → find the limitation → rebuild → refine**
 
-[Calculus Motion Visualizer](https://github.com/SrinidhiKotteswaran/calculus-motion-visualizer) is one example: I started with a Python/Streamlit prototype using SymPy, NumPy, and Plotly, then rebuilt the project in React and TypeScript with my own symbolic math engine.
+Motion Explorer is one example: it began as a Python/Streamlit prototype using SymPy, NumPy, and Plotly, then evolved into a React/TypeScript application with a custom symbolic math engine.
 
-## Other work
+- [Original Python prototype](https://github.com/SrinidhiKotteswaran/calculus-motion-visualizer)
+- [Build journal](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer/blob/main/docs/BUILD-JOURNAL.md)
+- [Math engine architecture](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer/blob/main/docs/MATH-ENGINE.md)
 
-**[Vegetarian Restaurant Website](https://github.com/SrinidhiKotteswaran/Vegetarian-restaurant-website)**  
-A responsive multi-page website built from scratch with HTML, CSS, and JavaScript.
+## Other project
 
-## What I'm exploring
+**[Garam Gourmé — Vegetarian Restaurant Website](https://github.com/SrinidhiKotteswaran/Vegetarian-restaurant-website)**  
+A responsive, multi-page restaurant concept site customized from an existing template using HTML, CSS, and JavaScript.
 
-**AI & machine learning** · **software engineering** · **computational mathematics** · **interactive tools** · **data-driven systems**
+## Interests
+
+AI and machine learning · software engineering · computational mathematics · interactive tools · data-driven systems
 
 I’m especially interested in the point where a mathematical idea becomes something you can **build, test, and use**.
