@@ -11,7 +11,7 @@ I like taking ideas that feel abstract or messy and turning them into software p
 An interactive calculus laboratory for exploring derivatives, motion, numerical methods, analysis, and integration.
 
 <p align="center">
-  <a href="https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/">
+  <a href="https://calculus-motion-explorer.vercel.app/">
     <img src="https://raw.githubusercontent.com/SrinidhiKotteswaran/calculus-motion-explorer/main/screenshots/explore.png" alt="Motion Explorer interactive calculus lab" width="48%">
   </a>
   <a href="https://github.com/SrinidhiKotteswaran/calculus-motion-explorer">
@@ -24,7 +24,7 @@ An interactive calculus laboratory for exploring derivatives, motion, numerical 
 - Numerical differentiation and floating-point error analysis
 - React · TypeScript · Vite
 
-**[Live demo](https://calculus-motion-explorer-axfuj2ixr-srinidhi-kotteswaran.vercel.app/)** · **[Repository](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)**
+**[Live demo](https://calculus-motion-explorer.vercel.app/)** · **[Repository](https://github.com/SrinidhiKotteswaran/calculus-motion-explorer)**
 
 ### 📚 [ClassPilot](https://github.com/SrinidhiKotteswaran/ClassPilot)
 
